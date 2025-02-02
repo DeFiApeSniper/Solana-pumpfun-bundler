@@ -1,7 +1,7 @@
 # Solana Pumpfun Bundler using JITO & LOOKUPTABLE
 
 ## Contact
-telegram: @sydnie34b
+telegram: @DeFiApeSniper
 
 You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
 
